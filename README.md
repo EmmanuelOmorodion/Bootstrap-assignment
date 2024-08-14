@@ -10,7 +10,15 @@
   <div class="container">
   <!-- first row is navbar -->
     <div class="row">
-      <div class="col-8"><img src="trucking_hat.jpg" alt="trucking hat"></div>
+      <div class="col-10">Trucking Hat</div>
       <div class="col"><a href="#">Home</a></div>
       <div class="col"><a href="#">Catalog</a></div>
-      <div class="col"><a href="#">About</a></div>
+  <!-- second row is picture and title -->
+  <div class="row title-row"> 
+    <div class="col-2"></div>
+    <div class="col-4">
+      <div class="box">photo</div>
+  </div>
+  <div class="col"›
+      <h1>Hello, My name is Emmanuel</h1> 
+      <h4>Student</h4>
