@@ -21,4 +21,10 @@
   </div>
   <div class="col"›
       <h1>Hello, My name is Emmanuel</h1> 
-      <h4>Student</h4>
+      <h4>Junior Student</h4>
+      </div›
+    </div>
+  </div>
+      
+</body> 
+</html>
