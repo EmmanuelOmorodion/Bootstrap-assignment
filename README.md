@@ -10,7 +10,7 @@
   <div class="container">
   <!-- first row is navbar -->
     <div class="row">
-      <div class="col-10"><img src="trucking_hat.jpg" alt="trucking hat"></div>
+      <div class="col-8"><img src="trucking_hat.jpg" alt="trucking hat"></div>
       <div class="col"><a href="#">Home</a></div>
       <div class="col"><a href="#">Catalog</a></div>
       <div class="col"><a href="#">About</a></div>
